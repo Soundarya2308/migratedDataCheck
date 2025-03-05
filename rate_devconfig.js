@@ -131,4 +131,7 @@ const ratesch_dev = {
   }
   
 //rate_deviceconfig();
+
+console.log("test");
+
 module.exports = rate_deviceconfig;
